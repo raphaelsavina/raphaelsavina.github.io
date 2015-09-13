@@ -1,0 +1,6 @@
+ErrorDocument 500 http://www.savina.net/blog/index.html
+ErrorDocument 404 http://www.savina.net/blog/index.html
+ErrorDocument 401 http://www.savina.net/blog/index.html
+ErrorDocument 401 http://www.savina.net/blog/index.html
+ErrorDocument 403 http://www.savina.net/blog/index.html
+ErrorDocument 404 http://www.savina.net/blog/index.html
